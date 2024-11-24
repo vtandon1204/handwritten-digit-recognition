@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+streamlit_drawable_canvas
+ipywidgets
+streamlit-drawable-canvas
+joblib
+pillow
